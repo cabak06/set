@@ -12,4 +12,3 @@ division = bl.divi(num1,num2)
 
 print(adding, subtracted, multiplied, division)
 
-print('hello new added line')
